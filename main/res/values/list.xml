@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Выбор 1</item>
+        <item>Выбор 2</item>
+        <item>Выбор 3</item>
+        <item>Выбор 4</item>
+        <item>Выбор 5</item>
+        <item>Выбор 6</item>
+
+    </string-array>
+</resources>
